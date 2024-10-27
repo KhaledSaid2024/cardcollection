@@ -1,3 +1,6 @@
 Honda
 Toyota
 Opel
+Ford
+Nissan
+Kia
